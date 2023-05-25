@@ -1,0 +1,7 @@
+total 9
+drwxr-xr-x 1 SKY 197121  0 May 25 10:43 ./
+drwxr-xr-x 1 SKY 197121  0 May 25 10:38 ../
+drwxr-xr-x 1 SKY 197121  0 May 25 10:38 .git/
+drwxr-xr-x 1 SKY 197121  0 May 25 10:42 0x00-intro_to_shell/
+-rw-r--r-- 1 SKY 197121  0 May 25 10:43 output.txt
+-rw-r--r-- 1 SKY 197121 35 May 25 10:40 README.md
